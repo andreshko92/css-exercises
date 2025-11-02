@@ -1,1 +1,19 @@
 /* Add CSS Styling */
+.odd-text {
+    background-color: #ff8787;
+    font-family: Verdana, Deja-Vu Sans, sans-serif;
+}
+.special-size {
+    font-size: 24px;
+}
+#second-row {
+    color: #0000ff;
+    font-size: 36px;
+
+}
+#fourth-row {
+    background-color: #74ff74;
+    font-size: 24px;
+    font-weight: 900;
+
+}
